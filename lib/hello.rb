@@ -9,3 +9,5 @@ def hello_t(array)
 end
 
 # call your method here!
+array = [1, 2, 3]
+hello_t(array)
